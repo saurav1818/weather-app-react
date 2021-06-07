@@ -1,0 +1,28 @@
+.main_container {
+  border: 0.1rem solid #ccc;
+  padding: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.8rem;
+  margin-top: 1.6rem;
+}
+.day {
+  margin-bottom: 0.8rem;
+  font-size: 2.5rem;
+}
+
+.time {
+  margin-bottom: 0.8rem;
+  font-size: 1.6rem;
+}
+
+.temp {
+  margin-bottom: 0.8rem;
+  font-size: 2.5rem;
+}
+
+.description {
+  font-size: 1.6rem;
+}
